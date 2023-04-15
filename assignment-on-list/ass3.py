@@ -1,4 +1,4 @@
-# list of item containing 15 items
+# list containing 15 items
 list = [34, 3, 23, 12, 8, 9, 10, 14, 5, 13, 50, 26, 18, 31, 16]
 
 #command to print the length of the item

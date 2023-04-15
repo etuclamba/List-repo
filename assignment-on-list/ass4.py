@@ -1,4 +1,4 @@
-#this is the list of items store in a variable
+#this is the list of items stored in a variable
 data = [350, 400, 250, 200, 150, 1000, 2000, 500, 1000, 500]
 
 # removing the duplicate
